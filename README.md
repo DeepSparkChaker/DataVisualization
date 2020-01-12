@@ -15,7 +15,7 @@ The sequence of the phases is not strict and moving back and forth between diffe
 
   - Master Python for Data science
   
-  - EDA(differents task to discover your data 
+  - EDA
   
   - Modeling Machine learning Algorithms Using (Regression , Classification..)
   
